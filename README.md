@@ -16,13 +16,12 @@
  4. Build and run
 
 ## Instructions
-|------------|--------------------------------|
-| ArrowRight | Increase the bike velocity     |
-| ArrowLeft  | Decrease the bike velocity     |
-| [          | Increase the bike gear         |
-| ]          | Decrease the bike gear         |
-| D          | Turn on the "visualizing" mode |
-|------------|--------------------------------|
+| ArrowRight 	| Increase the bike velocity 	|
+|:----------:	|:--------------------------:	|
+|  ArrowLeft 	| Decrease the bike velocity 	|
+|      [     	|   Increase the bike gear   	|
+|      ]     	|   Decrease the bike gear   	|
+|      D     	| Turn on the debugging mode 	|
 
 **IMPORTANT INFORMATION:**
 Since the keymapping was mapped in my particular keyboard, maybe you'll have to change the mapping of the keys to your keyboard in the _main.cpp -> void keyboard (int key)_
