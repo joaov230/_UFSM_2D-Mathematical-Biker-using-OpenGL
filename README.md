@@ -1,6 +1,6 @@
 # 2D Mathematical Biker using OpenGL
  Interactive animation of a biker using OpenGL.
- This project was developed during my studies in Computer Science aout CGI.  
+ This project was developed during my studies in Computer Science about CGI.  
 
 ## Features
  * You can change the velocity of the bike and it's gear (faster and slower)
